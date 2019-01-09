@@ -1,0 +1,104 @@
+ 
+#heading{
+    
+    font-family: "Times New Roman";
+    color: black;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 30px;
+}
+
+
+
+
+body{
+    
+     background-color: white;
+     background-attachment: fixed;
+     background-size: 1080px 1000px; 
+     background-image: url("background.jpg");  
+     background-repeat: repeat;     
+     background-origin: content-box;
+     
+     
+     
+
+ }
+
+   #intl{
+    background-image: url("flag.png");
+    background-repeat: no-repeat;
+    background-color: none;
+    background-position: center;
+    background-size: cover;
+    background-origin: content-box;
+    /* opacity: 0.7; */
+ } 
+ 
+
+ #first{
+    padding: 100px 200px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: "Times New Roman";
+    opacity:1;
+ }
+
+
+/* 
+ #il{
+        background-color: white;
+        color: black;
+        border: 1px solid rgb(146, 153, 146); 
+        transition-duration: 0.4s;
+        font-size: 20px;
+        border-radius: 12px;
+        padding: 12px 28px;
+        align-self: center;
+        border: 2px solid white;
+        cursor: pointer;
+        float: left;
+    }
+
+ #il:hover{
+    
+        background-color: rgb(238, 150, 150); 
+        color: white;
+        border-radius: 12px;  
+ }   
+ #bt-text{
+     font-style: italic;
+     color: rgb(35, 35, 158);
+     font-family: "Times New Roman";
+ }
+
+ 
+  */
+ /* #button{
+     background-image: url("flag.png");
+     background-repeat: no-repeat;
+
+ } */
+
+
+ #il-content{
+    padding: 100px 200px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 35px;
+    font-family: "Times New Roman";
+    opacity:1;
+    background-color: antiquewhite;
+    font-style: italic;
+ }
+
+ #picture{
+     background-image: url('ileague.jpg');
+     background-size: 1250px 1000px;
+     background-repeat: no-repeat;
+ }
+
+ #random{
+     opacity: 0;
+ }
